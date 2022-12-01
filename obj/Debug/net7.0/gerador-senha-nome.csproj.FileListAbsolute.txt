@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\bin\Debug\net7.0\gerador-senha-nome.exe
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\bin\Debug\net7.0\gerador-senha-nome.deps.json
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\bin\Debug\net7.0\gerador-senha-nome.runtimeconfig.json
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\bin\Debug\net7.0\gerador-senha-nome.dll
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\bin\Debug\net7.0\gerador-senha-nome.pdb
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\obj\Debug\net7.0\gerador-senha-nome.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\obj\Debug\net7.0\gerador-senha-nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\obj\Debug\net7.0\gerador-senha-nome.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\obj\Debug\net7.0\gerador-senha-nome.AssemblyInfo.cs
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\obj\Debug\net7.0\gerador-senha-nome.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\obj\Debug\net7.0\gerador-senha-nome.dll
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\obj\Debug\net7.0\refint\gerador-senha-nome.dll
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\obj\Debug\net7.0\gerador-senha-nome.pdb
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\obj\Debug\net7.0\gerador-senha-nome.genruntimeconfig.cache
+C:\Users\vinic\Documents\GitHub\gerador-senha-nome\obj\Debug\net7.0\ref\gerador-senha-nome.dll
